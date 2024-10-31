@@ -5,7 +5,7 @@ The purpose about this app/prog is to get along with my days and make it easier 
 
 Clone : https://github.com/hrabbe88/Todoapp.git
 
-## FEATURES
+### FEATURES
 Read
 Create
 Update
@@ -13,7 +13,7 @@ and Delete tasks.
 (CRUD-Operations)
 
 
-## Usage
+### Usage
 API-endpoints:
 @GetMapping
 @PostMapping
@@ -22,7 +22,7 @@ API-endpoints:
 I have also tried to put in a "reminder" with a due date which will notice the user
 that there is one day left until the taks is "out of date".
 
-## Techstack
+### Techstack
 IntelliJ
 Maven
 Hibernate
