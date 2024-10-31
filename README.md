@@ -13,6 +13,7 @@ and Delete tasks.
 (CRUD-Operations)
 
 
+
 ### Usage
 API-endpoints:
 @GetMapping,
@@ -28,6 +29,7 @@ IntelliJ,
 Maven,
 Hibernate,
 MySql
+Postman (Enter value : 1 when trying CRUD - operations)
 
 ### CONTACT
 Hamodi Rahman
