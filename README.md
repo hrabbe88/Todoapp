@@ -5,7 +5,7 @@ The purpose about this app/prog is to get along with my days and make it easier 
 
 Clone : https://github.com/hrabbe88/Todoapp.git
 
-### FEATURES
+### FEATURES (Functions)
 Read
 Create
 Update
@@ -15,10 +15,10 @@ and Delete tasks.
 
 ### Usage
 API-endpoints:
-@GetMapping
-@PostMapping
-@PutMapping
-@DeleteMapping
+@GetMapping,
+@PostMapping,
+@PutMapping,
+@DeleteMapping,
 I have also tried to put in a "reminder" with a due date which will notice the user
 that there is one day left until the taks is "out of date".
 
@@ -28,7 +28,7 @@ Maven
 Hibernate
 MySql
 
-# CONTACT
+### CONTACT
 Hamodi Rahman
 email : hamodir1@gmail.com
 
