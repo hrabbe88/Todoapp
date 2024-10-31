@@ -23,9 +23,10 @@ I have also tried to put in a "reminder" with a due date which will notice the u
 that there is one day left until the taks is "out of date".
 
 ### Techstack
-IntelliJ
-Maven
-Hibernate
+Java,
+IntelliJ,
+Maven,
+Hibernate,
 MySql
 
 ### CONTACT
